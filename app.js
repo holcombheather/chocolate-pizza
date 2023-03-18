@@ -6,3 +6,4 @@ function toggleStrikeThrough(checkbox) {
     listItem.style.textDecoration = "none";
   }
 }
+
